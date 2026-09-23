@@ -179,6 +179,7 @@ A curated list of awesome tools, platforms, products, and resources for Managed 
 ## Cloud Management
 - [CloudCheckr](https://cloudcheckr.com/) - Cloud management platform, offering cost optimization, security, and compliance management.
 - [CloudHealth](https://www.cloudhealthtech.com/) - Cloud management platform, providing cost management, security, and governance.
+- [Licensly](https://www.licensly.dk/en) - Free Microsoft 365 licence comparison and per-user cost calculator covering all 10 plans across 60 features, plus NIS2 Article 21 mapping.
 - [Nerdio](https://getnerdio.com/) - Azure Virtual Desktop Management and Windows 365 solutions for Managed Service Providers & Enterprise IT professionals.
 
 ## Mobile Device Management (MDM)
